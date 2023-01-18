@@ -7,7 +7,7 @@ const sleep = () => {
     });
 };
 async function welcome() {
-    let rainbowtitle = chalkAnimation.rainbow('lets start calculation...');
+    let rainbowtitle = chalkAnimation.rainbow('lets start calculation........');
     await sleep();
     rainbowtitle.stop();
 }
