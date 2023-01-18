@@ -11,6 +11,9 @@ const sleep = ()=>{
 
     })
 }
+
+
+
     async function welcome() {
         let rainbowtitle = chalkAnimation.rainbow('lets start calculation');
         await sleep()
